@@ -1,0 +1,6 @@
+- pegasus:
+  min_version: 5.0
+  max_version: 5.0
+  
+- dependencies:
+  - "Python 3.5"
