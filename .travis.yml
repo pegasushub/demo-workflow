@@ -1,0 +1,26 @@
+language: python
+dist: focal
+
+python:
+  - 3.8
+
+addons:
+  apt:
+    packages:
+      - docker-ce
+
+services:
+  - docker
+
+before_install:
+  - docker pull ryantanaka/pegasus-wf-dev-env
+
+script:
+  - echo "Script"
+
+notifications:
+  email:
+    recipients:
+      - rafsilva@isi.edu
+    on_success: change
+    on_failure: always
