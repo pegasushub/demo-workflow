@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pegasushub/demo-workflow.svg?branch=master)](https://travis-ci.org/pegasushub/demo-workflow)
+
 ## Demo Workflow
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit sem, congue at leo eget, luctus aliquam quam. Proin feugiat eget tortor et convallis. In hac habitasse platea dictumst. Donec sed elit euismod, facilisis ante at, `porta justo`. Suspendisse sodales nisl porta interdum scelerisque. Aliquam vitae dictum justo. Mauris mattis massa diam, et molestie enim dictum id. Etiam et tellus bibendum, interdum magna ac, interdum sem. Vivamus sed turpis auctor, interdum ligula non, volutpat risus. Vivamus dignissim nisl non dolor fringilla pellentesque. Vivamus facilisis, lorem quis finibus sodales, urna libero placerat dui, a convallis tellus quam quis odio. Praesent non vehicula tellus. Vestibulum blandit purus mi, egestas sollicitudin sem hendrerit at. In pretium magna non tristique convallis. Sed risus ex, facilisis non blandit ut, tincidunt eu urna.
