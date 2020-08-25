@@ -4,11 +4,6 @@ dist: focal
 python:
   - 3.8
 
-addons:
-  apt:
-    packages:
-      - docker-ce
-
 services:
   - docker
 
